@@ -1,4 +1,4 @@
-Motivated software engineering graduate from the DKTE'S Textile & Engineering Institute, Ichalkaranji with 6 months experience in software development. Seeking to use proven skills in Salesforce Admin & Development, JavaScript, Database and Software Development Workflow.
+Motivated software engineer graduate from the DKTE'S Textile & Engineering Institute, Ichalkaranji with 6 months experience in software development. Seeking to use proven skills in Salesforce Admin & Development, JavaScript, Database and Software Development Workflow.
 - 📫 How to reach me call me on +91-9130335009 or email me to @deepakwadar192@gmail.com
 
 <!---
